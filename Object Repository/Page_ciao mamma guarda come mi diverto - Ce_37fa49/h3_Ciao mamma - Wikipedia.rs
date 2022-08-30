@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Ciao mamma - Wikipedia</name>
+   <tag></tag>
+   <elementGuidId>a62390e5-9dd7-427b-9cef-a6fdc6316016</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kp-wp-tab-overview']/div[5]/div/div/div/div/div/div/div/div/div/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>4d0c23af-e957-4582-830a-aec579c54530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LC20lb MBeuO DKV0Md</value>
+      <webElementGuid>7c4bbd50-5be5-4a78-a5b7-fce8cedb4eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ciao mamma - Wikipedia</value>
+      <webElementGuid>d6ceaa51-fa48-4755-a721-fdea83b90482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kp-wp-tab-cont-overview&quot;)/div[@class=&quot;aoPfOc&quot;]/div[1]/div[1]/div[@id=&quot;kp-wp-tab-overview&quot;]/div[@class=&quot;TzHB6b cLjAic K7khPe&quot;]/div[1]/div[@class=&quot;sATSHe&quot;]/div[1]/div[@class=&quot;LuVEUc B03h3d P6OZi V14nKc EN1f2d ptcLIOszQJu__wholepage-card wp-ms&quot;]/div[@class=&quot;UDZeY OTFaAf&quot;]/div[@class=&quot;g Ww4FFb vt6azd tF2Cxc&quot;]/div[@class=&quot;kvH3mc BToiNc UK95Uc&quot;]/div[@class=&quot;Z26q7c UK95Uc uUuwM jGGQ5e&quot;]/div[@class=&quot;yuRUbf&quot;]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
+      <webElementGuid>02f96862-2c72-4e83-a654-8dc99182ad2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kp-wp-tab-overview']/div[5]/div/div/div/div/div/div/div/div/div/a/h3</value>
+      <webElementGuid>fc3e4808-04c8-457c-86b8-c5582bd94d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chi è il padre di Jovanotti?'])[2]/following::h3[1]</value>
+      <webElementGuid>d939a50a-5741-4e3d-b526-e42f21e15a2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='› wiki › Ciao_mamma'])[1]/preceding::h3[1]</value>
+      <webElementGuid>a99df971-4d06-40a4-89c8-7a59b9a5c1e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ciao mamma - Wikipedia']/parent::*</value>
+      <webElementGuid>a89e9b1d-e20c-4f63-be0d-4399efd47be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/h3</value>
+      <webElementGuid>6258ec4d-1347-48ce-bd64-25491b858ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Ciao mamma - Wikipedia' or . = 'Ciao mamma - Wikipedia')]</value>
+      <webElementGuid>ec2ed2cf-b1c3-486e-8104-4661fdf96ddf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

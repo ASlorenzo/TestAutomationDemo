@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
+
+WebUI.click(findTestObject('Object Repository/Page_Google/div_Accetta tutto'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Google/input__q'), 'ciao mamma guarda come mi diverto')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Google/input__q'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Page_ciao mamma guarda come mi diverto - Ce_37fa49/h3_Ciao mamma - Wikipedia'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Ciao mamma - Wikipedia/a_Giovani Jovanotti'), 'Giovani Jovanotti')
+
+WebUI.closeBrowser()
+
